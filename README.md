@@ -1,6 +1,7 @@
 Credit Card Fraud Detection using XGBoost
 
-Name: Vandita Parasher Student ID: 202501100300286
+Name: Vandita Parasher 
+Student ID: 202501100300286
 
 About the Project
 
