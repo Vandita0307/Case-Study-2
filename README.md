@@ -1,0 +1,13 @@
+Credit Card Fraud Detection using XGBoost
+
+Name: Vandita Parasher Student ID: 202501100300286
+
+About the Project
+
+This project is used to detect fraudulent credit card transactions using Machine Learning.
+
+The dataset contains credit card transaction details, where the Class column tells whether a transaction is normal or fraudulent.
+
+0 → Normal transaction 1 → Fraudulent transaction
+
+Since fraud cases are much fewer than normal cases, SMOTE is used to balance the training data.
